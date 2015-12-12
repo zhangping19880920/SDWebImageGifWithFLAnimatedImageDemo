@@ -1,0 +1,2 @@
+# SDWebImageGifWithFLAnimatedImageDemo
+使用SDWebImage下载图片,使用FLAnimatedImage显示gif图片
